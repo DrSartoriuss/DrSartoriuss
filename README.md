@@ -13,8 +13,49 @@
   - Telegram: [@DrSartorius](https://t.me/DrSartorius))
     
 - 📄 Мое резюме: [Резюме](https://clck.ru/3BYPzK)
-  
-<!---
+
+- Мой стек:
+  python  pandas  scikit_learn tensorflow pytorch  git  mysql  postgresql   seaborn      
+
+<a href="https://pandas.pydata.org">
+  <img src=" ">
+</a> 
+
+<a href="http://www.python.org">
+  <img src="https://www.python.org/static/community_logos/python-powered-h-70x91.png">
+</a>
+
+<a href="https://scikit-learn.org">
+  <img src=" ">
+</a> 
+
+<a href="https://www.tensorflow.org">
+  <img src=" ">
+</a> 
+
+<a href="https://pytorch.org/docs/stable/torch.html">
+  <img src=" ">
+</a>
+
+<a href="https://git-scm.com">
+  <img src=" ">
+</a>
+
+<a href="https://www.mysql.com">
+  <img src=" ">
+</a>
+
+<a href="https://www.postgresql.org">
+  <img src=" ">
+</a>
+
+<a href="https://seaborn.pydata.org">
+  <img src=" ">
+</a>
+
+
+
+!---
 DrSartoriuss/DrSartoriuss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
