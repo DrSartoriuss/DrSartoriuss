@@ -25,7 +25,7 @@
  </a> 
 
 <a href="https://scikit-learn.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="35" alt="Scikit-learn">
 </a> 
 
 <a href="https://www.tensorflow.org">
@@ -33,7 +33,7 @@
 </a> 
 
 <a href="https://pytorch.org/docs/stable/torch.html">
-  <img src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" width="40" height="40" alt="PyTorch">
+  <img src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" width="35" height="40" alt="PyTorch">
 </a>
 
 <a href="https://git-scm.com">
@@ -45,15 +45,15 @@
 </a>
 
 <a href="https://spark.apache.org/docs/latest/api/python/index.html">
-  <img src="https://seeklogo.com/images/A/apache-spark-logo-E141C92C3E-seeklogo.com.png" width="40" height="40" alt="Apache Spark">
+  <img src="https://seeklogo.com/images/A/apache-spark-logo-E141C92C3E-seeklogo.com.png" width="40" height="20" alt="Apache Spark">
 </a>
 
 <a href="https://www.sqlalchemy.org">
-  <img src="https://seeklogo.com/images/S/sqlalchemy-logo-4B94AE45D9-seeklogo.com.png" width="40" height="40" alt="SQLAlchemy">
+  <img src="https://seeklogo.com/images/S/sqlalchemy-logo-4B94AE45D9-seeklogo.com.png" width="45" height="15" alt="SQLAlchemy">
 </a>
 
 <a href="https://matplotlib.org">
-  <img src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" width="40" height="40" alt="Matplotlib">
+  <img src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" width="60" height="20" alt="Matplotlib">
 </a>
 
 <a href="https://seaborn.pydata.org">
