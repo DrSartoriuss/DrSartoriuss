@@ -5,7 +5,7 @@
 
 - 👀  Я из Москвы. В прошлом - управленец в сфере продаж. Сейчас осваиваю еще одну перспективную профессию - Data Scientist.
 Интересуюсь всем, что связано с ML и глубокими нейронными сетями. В свободное время увлекаюсь кино и текстами. 
-- 🌱 В ходе учебы в Яндекс Практикуме успешно защитил 19 проектов, включая основанные на реальных данных.
+- 🌱 В ходе учебы в Яндекс Практикуме успешно защитил 21 проект, включая основанные на реальных данных.
 - 👨‍💻 Мои проекты: [Portfolio](https://clck.ru/3BVSZA), [Masterskaya_1](https://clck.ru/3BVSTJ), [Masterskaya_2](https://clck.ru/3BYSjs)
 
 - 📫 Связаться со мной:
@@ -60,5 +60,11 @@
   <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" width="40" height="40" alt="Seaborn">
 </a>
 
+<a href="https://keras.io">
+  <img src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" width="40" height="40" alt="Keras">
+</a>
 
+<a href="https://research.google/pubs/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/">
+  <img src="https://karmajack.com/wp-content/uploads/2019/12/Google-BERT-What-you-probably-didnt-know-about-the-AI.png" width="40" height="40" alt="BERT">
+</a>
 
