@@ -32,11 +32,11 @@
 </a> 
 
 <a href="https://pytorch.org/docs/stable/torch.html">
-  <img src="https://seeklogo.com/images/P/pytorch-logo-84F95D0AF5-seeklogo.com.png" width="35" height="40" alt="PyTorch">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" width="50" height="40" alt="PyTorch">
 </a>
 
 <a href="https://git-scm.com">
-  <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="40" height="40" alt="Git">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="45" height="45" alt="Git">
 </a>
 
 <a href="https://www.postgresql.org">
@@ -66,4 +66,3 @@
 <a href="https://research.google/pubs/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/">
   <img src="https://karmajack.com/wp-content/uploads/2019/12/Google-BERT-What-you-probably-didnt-know-about-the-AI.png" width="50" height="40" alt="BERT">
 </a>
-
