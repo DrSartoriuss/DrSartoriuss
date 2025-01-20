@@ -66,3 +66,7 @@
 <a href="https://research.google/pubs/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/">
   <img src="https://karmajack.com/wp-content/uploads/2019/12/Google-BERT-What-you-probably-didnt-know-about-the-AI.png" width="50" height="40" alt="BERT">
 </a>
+
+<a href="https://www.ultralytics.com/yolo">
+  <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994922be624dae865d06a5_UltralyticsYOLO_full_blue.svg" width="50" height="40" alt="BERT">
+</a>
