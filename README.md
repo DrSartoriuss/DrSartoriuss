@@ -24,7 +24,7 @@
  </a> 
 
 <a href="https://scikit-learn.org">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="45" alt="Scikit-learn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="45" alt="Scikit-learn">
 </a> 
 
 <a href="https://www.tensorflow.org">
