@@ -56,7 +56,7 @@
 </a>
 
 <a href="https://seaborn.pydata.org">
-  <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" width="40" height="40" alt="Seaborn">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn">
 </a>
 
 <a href="https://keras.io">
