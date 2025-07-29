@@ -40,7 +40,7 @@
 </a>
 
 <a href="https://www.postgresql.org">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="PostgreSQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL">
 </a>
 
 <a href="https://spark.apache.org/docs/latest/api/python/index.html">
