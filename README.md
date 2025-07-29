@@ -32,11 +32,11 @@
 </a> 
 
 <a href="https://pytorch.org/docs/stable/torch.html">
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" height="40" alt="PyTorch">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch">
 </a>
 
 <a href="https://git-scm.com">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git">
 </a>
 
 <a href="https://www.postgresql.org">
