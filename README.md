@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://git-scm.com">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="45" height="45" alt="Git">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git">
 </a>
 
 <a href="https://www.postgresql.org">
