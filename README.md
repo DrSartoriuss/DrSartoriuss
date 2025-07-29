@@ -68,5 +68,5 @@
 </a>
 
 <a href="https://www.ultralytics.com/yolo">
-  <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994922be624dae865d06a5_UltralyticsYOLO_full_blue.svg" width="70" height="65" alt="Ultralytics">
+  <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/64994922be624dae865d06a5_UltralyticsYOLO_full_blue.svg" width="90" height="70" alt="Ultralytics">
 </a>
