@@ -48,7 +48,7 @@
 </a>
 
 <a href="https://www.sqlalchemy.org">
-  <img src="https://seeklogo.com/images/S/sqlalchemy-logo-4B94AE45D9-seeklogo.com.png" width="45" height="15" alt="SQLAlchemy">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg" width="45" height="15" alt="SQLAlchemy">
 </a>
 
 <a href="https://matplotlib.org">
