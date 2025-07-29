@@ -60,7 +60,7 @@
 </a>
 
 <a href="https://keras.io">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="60" height="60" alt="Keras">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40" alt="Keras">
 </a>
 
 <a href="https://research.google/pubs/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/">
