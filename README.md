@@ -32,7 +32,7 @@
 </a> 
 
 <a href="https://pytorch.org/docs/stable/torch.html">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" width="50" height="40" alt="PyTorch">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" height="40" alt="PyTorch">
 </a>
 
 <a href="https://git-scm.com">
