@@ -52,7 +52,7 @@
 </a>
 
 <a href="https://matplotlib.org">
-  <img src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" width="45" height="45" alt="Matplotlib">
+  <img src="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Matplotlib.svg" width="45" height="45" alt="Matplotlib">
 </a>
 
 <a href="https://seaborn.pydata.org">
