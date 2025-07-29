@@ -44,7 +44,7 @@
 </a>
 
 <a href="https://spark.apache.org/docs/latest/api/python/index.html">
-  <img src="https://seeklogo.com/images/A/apache-spark-logo-E141C92C3E-seeklogo.com.png" width="40" height="20" alt="Apache Spark">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" height="20" alt="Apache Spark">
 </a>
 
 <a href="https://www.sqlalchemy.org">
